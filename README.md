@@ -13,7 +13,9 @@ It allows users to perform **addition, subtraction, multiplication, and division
 - Loop-based menu system
 - Clean and user-friendly CLI interface
 
+
 ---
+
 
 ## ▶️ How to Run
 1️⃣ Clone the repository  
@@ -28,11 +30,13 @@ python calculator.py
 
 ---
 
+
 ### 📂 Files Included
 - calculator.py → Main calculator script
 - README.md → Documentation file
 
 ---
+
 
 #### Output
 screen shot[google Drive] ---> https://drive.google.com/file/d/1I9kZ8eFilYPQDzhKtcTFpYJmP528yXyv/view?usp=drivesdk
