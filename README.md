@@ -24,3 +24,12 @@ cd Calculator
 ## 📂 Files Included
 - calculator.py → Main calculator script
 - README.md → Documentation file
+
+---
+
+## Output
+
+<img width="870" height="625" alt="image" src="https://github.com/user-attachments/assets/c78518c6-3c39-4be2-b439-6e509184d3b4" />
+
+
+
