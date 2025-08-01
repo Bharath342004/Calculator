@@ -33,4 +33,4 @@ python calculator.py
 ---
 
 ## 📷 Output
-[Screenshot (Google Drive)](https://drive.google.com/file/d/your-link)
+[Screenshot (Google Drive)](https://drive.google.com/file/d/1I9kZ8eFilYPQDzhKtcTFpYJmP528yXyv/view?usp=drivesdk)
