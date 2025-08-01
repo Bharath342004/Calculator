@@ -28,8 +28,7 @@ cd Calculator
 ---
 
 ## Output
-
-<img width="870" height="625" alt="image" src="https://github.com/user-attachments/assets/c78518c6-3c39-4be2-b439-6e509184d3b4" />
+screen shot ---> https://drive.google.com/file/d/1I9kZ8eFilYPQDzhKtcTFpYJmP528yXyv/view?usp=drivesdk
 
 
 
