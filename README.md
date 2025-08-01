@@ -28,13 +28,13 @@ python calculator.py
 
 ---
 
-## 📂 Files Included
+### 📂 Files Included
 - calculator.py → Main calculator script
 - README.md → Documentation file
 
 ---
 
-## Output
+#### Output
 screen shot[google Drive] ---> https://drive.google.com/file/d/1I9kZ8eFilYPQDzhKtcTFpYJmP528yXyv/view?usp=drivesdk
 
 
