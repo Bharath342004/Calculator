@@ -10,22 +10,27 @@ It allows users to perform **addition, subtraction, multiplication, and division
 - Handles division by zero
 - Loop-based menu system
 - Clean and user-friendly CLI interface
-  
+
 ## ▶️ How to Run
+
 1️⃣ Clone the repository  
 ```bash
 git clone https://github.com/Bharath342004/Calculator.git
 cd Calculator
-2️⃣ Run the calculator
+```
+
+2️⃣ Run the calculator  
+```bash
 python calculator.py
-
-## 📂 Files Included
-- calculator.py → Main calculator script
-- README.md → Documentation file
-
-## Output
-screen shot[google Drive] ---> https://drive.google.com/file/d/1I9kZ8eFilYPQDzhKtcTFpYJmP528yXyv/view?usp=drivesdk
-
-
+```
 
 ---
+
+## 📂 Files Included
+- calculator.py → Main calculator script  
+- README.md → Documentation file  
+
+---
+
+## 📷 Output
+[Screenshot (Google Drive)](https://drive.google.com/file/d/your-link)
