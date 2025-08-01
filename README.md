@@ -20,7 +20,14 @@ It allows users to perform **addition, subtraction, multiplication, and division
 ```bash
 git clone https://github.com/Bharath342004/Calculator.git
 cd Calculator
+
 ---
+
+2️⃣ Run the calculator
+python calculator.py
+
+---
+
 ## 📂 Files Included
 - calculator.py → Main calculator script
 - README.md → Documentation file
@@ -28,7 +35,7 @@ cd Calculator
 ---
 
 ## Output
-screen shot ---> https://drive.google.com/file/d/1I9kZ8eFilYPQDzhKtcTFpYJmP528yXyv/view?usp=drivesdk
+screen shot[google Drive] ---> https://drive.google.com/file/d/1I9kZ8eFilYPQDzhKtcTFpYJmP528yXyv/view?usp=drivesdk
 
 
 
